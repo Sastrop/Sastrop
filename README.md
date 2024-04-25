@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sastrop
 - 👀 I’m interested in nature and hiking
 - 🌱 I’m currently learning Front End Web Development
-- 💞️ I’m looking to collaborate on Web Design
+- 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me: LinkedIn
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I speak Spanish
