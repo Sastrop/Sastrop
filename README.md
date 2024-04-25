@@ -6,7 +6,7 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I speak Spanish
 
-![Snowcapped Mountains]([https://github.com/Sastrop/Sastrop/blob/main/mountains.jpg)
+![Snowcapped Mountains](https://github.com/Sastrop/Sastrop/blob/main/mountains.jpg)
 <!---
 Sastrop/Sastrop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
